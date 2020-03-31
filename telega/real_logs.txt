@@ -1,0 +1,62 @@
+2020-03-13 16:25:02.536403 - старт
+2020-03-13 16:25:02.540404 - конец2
+2020-03-13 16:25:09.021432 - {'content_type': 'text', 'message_id': 150, 'from_user': {'id': 389111847, 'is_bot': False, 'first_name': 'Герман', 'username': 'helik36', 'last_name': 'Гусейнов', 'language_code': 'ru'}, 'date': 1584105908, 'chat': {'type': 'private', 'last_name': 'Гусейнов', 'first_name': 'Герман', 'username': 'helik36', 'id': 389111847, 'title': None, 'all_members_are_administrators': None, 'photo': None, 'description': None, 'invite_link': None, 'pinned_message': None, 'sticker_set_name': None, 'can_set_sticker_set': None}, 'forward_from_chat': None, 'forward_from_message_id': None, 'forward_from': None, 'forward_date': None, 'reply_to_message': None, 'edit_date': None, 'media_group_id': None, 'author_signature': None, 'text': 'Привет', 'entities': None, 'caption_entities': None, 'audio': None, 'document': None, 'photo': None, 'sticker': None, 'video': None, 'video_note': None, 'voice': None, 'caption': None, 'contact': None, 'location': None, 'venue': None, 'animation': None, 'new_chat_member': None, 'new_chat_members': None, 'left_chat_member': None, 'new_chat_title': None, 'new_chat_photo': None, 'delete_chat_photo': None, 'group_chat_created': None, 'supergroup_chat_created': None, 'channel_chat_created': None, 'migrate_to_chat_id': None, 'migrate_from_chat_id': None, 'pinned_message': None, 'invoice': None, 'successful_payment': None, 'connected_website': None, 'json': {'message_id': 150, 'from': {'id': 389111847, 'is_bot': False, 'first_name': 'Герман', 'last_name': 'Гусейнов', 'username': 'helik36', 'language_code': 'ru'}, 'chat': {'id': 389111847, 'first_name': 'Герман', 'last_name': 'Гусейнов', 'username': 'helik36', 'type': 'private'}, 'date': 1584105908, 'text': 'Привет'}}
+2020-03-13 16:25:16.077192 - {'content_type': 'text', 'message_id': 152, 'from_user': {'id': 389111847, 'is_bot': False, 'first_name': 'Герман', 'username': 'helik36', 'last_name': 'Гусейнов', 'language_code': 'ru'}, 'date': 1584105915, 'chat': {'type': 'private', 'last_name': 'Гусейнов', 'first_name': 'Герман', 'username': 'helik36', 'id': 389111847, 'title': None, 'all_members_are_administrators': None, 'photo': None, 'description': None, 'invite_link': None, 'pinned_message': None, 'sticker_set_name': None, 'can_set_sticker_set': None}, 'forward_from_chat': None, 'forward_from_message_id': None, 'forward_from': None, 'forward_date': None, 'reply_to_message': None, 'edit_date': None, 'media_group_id': None, 'author_signature': None, 'text': 'ghbdtn', 'entities': None, 'caption_entities': None, 'audio': None, 'document': None, 'photo': None, 'sticker': None, 'video': None, 'video_note': None, 'voice': None, 'caption': None, 'contact': None, 'location': None, 'venue': None, 'animation': None, 'new_chat_member': None, 'new_chat_members': None, 'left_chat_member': None, 'new_chat_title': None, 'new_chat_photo': None, 'delete_chat_photo': None, 'group_chat_created': None, 'supergroup_chat_created': None, 'channel_chat_created': None, 'migrate_to_chat_id': None, 'migrate_from_chat_id': None, 'pinned_message': None, 'invoice': None, 'successful_payment': None, 'connected_website': None, 'json': {'message_id': 152, 'from': {'id': 389111847, 'is_bot': False, 'first_name': 'Герман', 'last_name': 'Гусейнов', 'username': 'helik36', 'language_code': 'ru'}, 'chat': {'id': 389111847, 'first_name': 'Герман', 'last_name': 'Гусейнов', 'username': 'helik36', 'type': 'private'}, 'date': 1584105915, 'text': 'ghbdtn'}}
+2020-03-13 16:25:43.155369 - {'content_type': 'text', 'message_id': 153, 'from_user': {'id': 389111847, 'is_bot': False, 'first_name': 'Герман', 'username': 'helik36', 'last_name': 'Гусейнов', 'language_code': 'ru'}, 'date': 1584105942, 'chat': {'type': 'private', 'last_name': 'Гусейнов', 'first_name': 'Герман', 'username': 'helik36', 'id': 389111847, 'title': None, 'all_members_are_administrators': None, 'photo': None, 'description': None, 'invite_link': None, 'pinned_message': None, 'sticker_set_name': None, 'can_set_sticker_set': None}, 'forward_from_chat': None, 'forward_from_message_id': None, 'forward_from': None, 'forward_date': None, 'reply_to_message': None, 'edit_date': None, 'media_group_id': None, 'author_signature': None, 'text': 'Е', 'entities': None, 'caption_entities': None, 'audio': None, 'document': None, 'photo': None, 'sticker': None, 'video': None, 'video_note': None, 'voice': None, 'caption': None, 'contact': None, 'location': None, 'venue': None, 'animation': None, 'new_chat_member': None, 'new_chat_members': None, 'left_chat_member': None, 'new_chat_title': None, 'new_chat_photo': None, 'delete_chat_photo': None, 'group_chat_created': None, 'supergroup_chat_created': None, 'channel_chat_created': None, 'migrate_to_chat_id': None, 'migrate_from_chat_id': None, 'pinned_message': None, 'invoice': None, 'successful_payment': None, 'connected_website': None, 'json': {'message_id': 153, 'from': {'id': 389111847, 'is_bot': False, 'first_name': 'Герман', 'last_name': 'Гусейнов', 'username': 'helik36', 'language_code': 'ru'}, 'chat': {'id': 389111847, 'first_name': 'Герман', 'last_name': 'Гусейнов', 'username': 'helik36', 'type': 'private'}, 'date': 1584105942, 'text': 'Е'}}
+2020-03-13 16:27:12.234241 - старт
+2020-03-13 16:27:12.238245 - конец2
+
+2020-03-13 16:28:12.442311 - старт
+2020-03-13 16:28:12.445310 - конец2
+
+2020-03-13 16:28:14.565546 - 389111847
+2020-03-13 16:28:20.001003 - 389111847
+2020-03-13 16:30:40.874204 - старт
+2020-03-13 16:30:40.878203 - конец2
+
+2020-03-13 16:30:41.866245 - 389111847
+2020-03-13 16:30:41.877246 - ghb
+2020-03-13 16:30:46.069387 - 389111847
+2020-03-13 16:30:46.075386 - привет
+2020-03-13 16:33:31.573442 - старт
+2020-03-13 16:33:31.576445 - конец2
+
+2020-03-13 16:33:48.293969 - 389111847
+2020-03-13 16:33:48.302970 - Привет
+2020-03-13 16:34:30.075426 - старт
+2020-03-13 16:34:30.079426 - конец2
+
+2020-03-13 16:34:34.056766 - 389111847
+2020-03-13 16:34:34.070763 - привет
+2020-03-13 16:35:56.765675 - старт
+2020-03-13 16:35:56.769673 - конец2
+
+2020-03-13 16:36:00.493071 - 389111847
+2020-03-13 16:36:00.504070 - привет
+2020-03-13 16:37:53.414653 - старт
+2020-03-13 16:37:53.417650 - конец2
+
+2020-03-13 16:38:02.915417 - 389111847
+2020-03-13 16:38:02.927417 - привет
+2020-03-13 22:54:39.347533 - старт
+2020-03-13 22:54:40.285231 - 389111847
+2020-03-13 22:54:40.300858 - Привет
+2020-03-13 22:54:47.066685 - 684199215
+2020-03-13 22:54:47.082307 - Привет
+2020-03-13 22:55:31.105620 - 684199215
+2020-03-13 22:55:31.121244 - Кпии ьбддд
+2020-03-13 22:56:11.316081 - 684199215
+2020-03-13 22:56:11.331567 - Привет
+2020-03-13 22:56:19.550380 - 684199215
+2020-03-13 22:56:19.566006 - Как дела?
+2020-03-13 22:57:45.471632 - 684199215
+2020-03-13 22:57:45.487100 - Я тебя люблю
+2020-03-13 22:57:52.377856 - 684199215
+2020-03-13 22:57:52.409083 - Огоооооо
+2020-03-13 22:58:32.157770 - 389111847
+2020-03-13 22:58:32.189021 - Я тебя люблю
+2020-03-13 22:59:32.437028 - 684199215
+2020-03-13 22:59:32.452649 - Пойду посуду помою
+2020-03-13 23:00:46.734476 - 684199215
+2020-03-13 23:00:46.750102 - А тут че не отвечаешь?
+2020-03-15 16:12:52.135461 - старт
